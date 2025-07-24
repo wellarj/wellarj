@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Leonel Araujo</h1>
 
 <p align="center">
-  Programador Full-Stack Sênior focado em desenvolvimento de soluções web, automações com APIs e integração de sistemas sob demanda.
+  Programador Full-Stack Pleno focado em desenvolvimento de soluções web, automações com APIs e integração de sistemas sob demanda.
 </p>
 
 ---
