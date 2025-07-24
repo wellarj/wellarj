@@ -4,10 +4,6 @@
   Programador Full-Stack Sênior focado em desenvolvimento de soluções web, automações com APIs e integração de sistemas sob demanda.
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
-
 ---
 
 ### 🚀 Tecnologias que trabalho
@@ -26,8 +22,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wellarj&show_icons=true&theme=radical&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellarj&layout=compact&theme=radical" />
 </p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wellarj&theme=radical)
 
 ---
 
