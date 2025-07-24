@@ -29,7 +29,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/leonelaraujo/)
 - 🌐 [Portfólio](https://araujodev.com.br/)
-- ✉️ leonelaraujo.dev@gmail.com
+- ✉️ leonel@araujodev.com.br
 
 ---
 
